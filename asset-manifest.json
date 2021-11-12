@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/SuperPortfolio/static/css/main.82dd57f7.chunk.css",
+    "main.js": "/SuperPortfolio/static/js/main.09d146bb.chunk.js",
+    "main.js.map": "/SuperPortfolio/static/js/main.09d146bb.chunk.js.map",
+    "runtime-main.js": "/SuperPortfolio/static/js/runtime-main.55e1ea9a.js",
+    "runtime-main.js.map": "/SuperPortfolio/static/js/runtime-main.55e1ea9a.js.map",
+    "static/js/2.09ef6a5a.chunk.js": "/SuperPortfolio/static/js/2.09ef6a5a.chunk.js",
+    "static/js/2.09ef6a5a.chunk.js.map": "/SuperPortfolio/static/js/2.09ef6a5a.chunk.js.map",
+    "static/js/3.15ce6617.chunk.js": "/SuperPortfolio/static/js/3.15ce6617.chunk.js",
+    "static/js/3.15ce6617.chunk.js.map": "/SuperPortfolio/static/js/3.15ce6617.chunk.js.map",
+    "index.html": "/SuperPortfolio/index.html",
+    "static/css/main.82dd57f7.chunk.css.map": "/SuperPortfolio/static/css/main.82dd57f7.chunk.css.map",
+    "static/js/2.09ef6a5a.chunk.js.LICENSE.txt": "/SuperPortfolio/static/js/2.09ef6a5a.chunk.js.LICENSE.txt",
+    "static/media/fitnesstracker.ea8d159f.png": "/SuperPortfolio/static/media/fitnesstracker.ea8d159f.png",
+    "static/media/App.css": "/SuperPortfolio/static/media/navbarphoto.cccc68ca.jpg",
+    "static/media/passwordgenerator.89008907.png": "/SuperPortfolio/static/media/passwordgenerator.89008907.png",
+    "static/media/profilephoto.654e30b3.png": "/SuperPortfolio/static/media/profilephoto.654e30b3.png",
+    "static/media/resume.b05d6a5a.png": "/SuperPortfolio/static/media/resume.b05d6a5a.png",
+    "static/media/timedquiz.834fe9ff.png": "/SuperPortfolio/static/media/timedquiz.834fe9ff.png",
+    "static/media/travelplanner.e6e6db13.png": "/SuperPortfolio/static/media/travelplanner.e6e6db13.png",
+    "static/media/weatherdashboard.55ddbf31.png": "/SuperPortfolio/static/media/weatherdashboard.55ddbf31.png",
+    "static/media/weighttracker.025cf609.png": "/SuperPortfolio/static/media/weighttracker.025cf609.png",
+    "static/media/workplanner.086c7b5e.png": "/SuperPortfolio/static/media/workplanner.086c7b5e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55e1ea9a.js",
+    "static/js/2.09ef6a5a.chunk.js",
+    "static/css/main.82dd57f7.chunk.css",
+    "static/js/main.09d146bb.chunk.js"
+  ]
+}
